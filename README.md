@@ -22,7 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/github-user?style=flat-square">
 </p>
 
-![profile](https://github.com/issufibadji/github-user/blob/master/github-user.png)
+![github-user](https://user-images.githubusercontent.com/45535344/185746347-a151db18-acb4-45a2-8db5-adfdc380bf91.gif)
  
 ## :book: Sobre
 O **github-user**
@@ -42,6 +42,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🔖Layout
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link]() para acessá-lo.
+
+![github-user](https://github.com/issufibadji/github-user/blob/master/github-user.png)
 
 ## :memo: Licença
 Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/github-user/blob/master/LICENSE) para obter mais informações.
